@@ -62,7 +62,7 @@ Now you can clearly check all the four registrations are successfully registered
 Now, we can Search, Update and Delete the data of patients in the Database. That's why Database is the gift to us for minimizing our work that is done manually.
 This is view you can see where we can search the patient's name and can perform the changes that is either we can update or delete the data.
 
-![tkinter6](https://user-images.githubusercontent.com/87376487/127767014-3bfd515b-4f94-467d-af51-120a2c942e64.png)
+![tkinter7](https://user-images.githubusercontent.com/87376487/127767346-5f2dba1d-d30b-40a2-86b6-03603938b727.png)
 
 Suppose we have searched for Sukhmani, as I told you earlier we will be doing changes in her data so i have already given her details in the above shots. Now you can correlate it with the searched data.
 
