@@ -76,6 +76,41 @@ Before celebrating, let's check whether it is updated in the Database or Not. Ye
 
 ![tkinter10](https://user-images.githubusercontent.com/87376487/127767179-0a9921c6-35d4-4ab3-a23e-cec932f78d54.png)
 
+Now we see how to delete the database. So we have searched for Aditya's Database that we will delete from the database and we can see on the screen in pop up box it's written Deleted Successfully. 
+
+![tkinter11](https://user-images.githubusercontent.com/87376487/127767471-56dd53d1-1a68-42f7-af5d-d6df2de0f800.png)
+
+Now, let's check in the database whether it got deleted or not. Yes, it got deleted.
+
+![tkinter12](https://user-images.githubusercontent.com/87376487/127767483-c71a2c42-1e0d-4dad-9e06-b17e756f1dfc.png)
+
+Next, the most fascinating thing in my project is pyttsx3, it is a text-to-speech conversion library in Python and can work in offline mode. So the calling process in the hospitals during this virus situation can be avoided. This appointment will completely be inbetween two persons- one the patient and the other doctor who will take the test. 
+
+The screen will appear like this 
+
+![tkinter13](https://user-images.githubusercontent.com/87376487/127767643-009cecd5-c959-4477-9579-10322b203b6a.png)
+
+When one will click on Next Patient Button the patient's ID, Name will appear on the screen and as well as one can listen to his/her name called.
+Total number of appointments we have is 3. Let's check one by one how it comes on the screen with the name and Id.
+
+The First appointment is given to Sukhmanjeet Kaur with ID number 1.
+
+![tkinter14](https://user-images.githubusercontent.com/87376487/127767732-9c1e6c9b-1567-4973-bf32-422e49ead527.png)
+
+Second appointment is given to Drish with ID number 2.
+
+![tkinter15](https://user-images.githubusercontent.com/87376487/127767750-b2d0435f-90eb-4bd1-ae3c-c9dc8ba464fc.png)
+
+Last appointment is of Sukhmani with ID number 7.
+
+![tkinter16](https://user-images.githubusercontent.com/87376487/127767760-a5420c59-de70-4ae1-8bd8-5a269ff353f7.png)
+
+That's All. 
+
+I hope you will like my appointment system for Covid-19 Test. Thank you! and Stay Safe! :) 
+
+
+
 
 
 
