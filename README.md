@@ -35,7 +35,7 @@ Pyttsx3 Module Pyttsx3 is a text-to-speech conversion library in Python. Unlike 
 
 I will explain my project in detail with the help of screenshots of my project. 
 
-This is the appointment screen which will be visual to the patient where he/she will be filling their details and schedulling the time for their Test.
+This is the appointment screen where the detail of patients will be registered with the scheduling time of their Covid-19 Test.
 
 ![tkinter1](https://user-images.githubusercontent.com/87376487/127766557-03bba25c-3d56-4cdf-b613-80d688560533.png)
 
@@ -58,6 +58,28 @@ Now I created three more registrations One for Drish, Second for Aditya and othe
 Now you can clearly check all the four registrations are successfully registered in the Database.
 
 ![tkinter6](https://user-images.githubusercontent.com/87376487/127766873-233adc80-7265-4d15-b9e2-bc25d084852c.png)
+
+Now, we can Search, Update and Delete the data of patients in the Database. That's why Database is the gift to us for minimizing our work that is done manually.
+This is view you can see where we can search the patient's name and can perform the changes that is either we can update or delete the data.
+
+![tkinter6](https://user-images.githubusercontent.com/87376487/127767014-3bfd515b-4f94-467d-af51-120a2c942e64.png)
+
+Suppose we have searched for Sukhmani, as I told you earlier we will be doing changes in her data so i have already given her details in the above shots. Now you can correlate it with the searched data.
+
+![tkinter8](https://user-images.githubusercontent.com/87376487/127767063-fb35453f-a9ab-4d86-a519-2d667e52b890.png)
+
+Now you can see the changes we have done in her data. We have changed her location from AMRITSAR to BENGALURU and changed her appointment timings from 12:00 to 15:00 and it successfully updated. Yipppee ... can feel the success. 
+
+![tkinter9](https://user-images.githubusercontent.com/87376487/127767115-1dbc230c-97e7-4a50-a873-b72b48c6ffe9.png)
+
+Before celebrating, let's check whether it is updated in the Database or Not. Yes, Well Done! It got successfully updated in the database.
+
+![tkinter10](https://user-images.githubusercontent.com/87376487/127767179-0a9921c6-35d4-4ab3-a23e-cec932f78d54.png)
+
+
+
+
+
 
 
 
