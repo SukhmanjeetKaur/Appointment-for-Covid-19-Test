@@ -11,9 +11,8 @@ tried to make a program where we can easily get the data of the patients sufferi
 virus with help of database and python.
 
 This project is all about Coronavirus Organization where I will be creating the data for
-coronavirus suspected people. In this we will be scheduling appointments, admitting the
-patient, corona tests and various there details. This project will be created with the help of
-Python (Tkinter) and Database (sqlite3). This makes the job easier, data can be accessed
+coronavirus suspected people registering themselves for Covid-19 Test. In this we will be scheduling appointments for corona tests and their details. This project will be created with the help of
+Python (Tkinter) and Database (SQL). This makes the job easier, data can be accessed
 automatically just by typing the id details of the patient rather than doing it manually.
 
 Outcomes
@@ -33,5 +32,40 @@ Creating a GUI application using Tkinter is an easy task. All you need to do is 
 • Enter the main event loop to take action against each event triggered by the user.
 
 Pyttsx3 Module Pyttsx3 is a text-to-speech conversion library in Python. Unlike alternative libraries, it works offline, and is compatible with both Python 2 and 3.
+
+I will explain my project in detail with the help of screenshots of my project. 
+
+This is the appointment screen which will be visual to the patient where he/she will be filling their details and schedulling the time for their Test.
+
+![tkinter1](https://user-images.githubusercontent.com/87376487/127766557-03bba25c-3d56-4cdf-b613-80d688560533.png)
+
+You can see as I(Sukhmanjeet Kaur) has registered myself successfully as you can see the pop up stating Appointment for Sukhmanjeet Kaur has been created and it will be automatically stored in the Database and I show you in upcoming Screenshots.
+
+![tkinter2](https://user-images.githubusercontent.com/87376487/127766667-a434ecf7-cc34-41e8-97d2-c02cf0df22ea.png)
+
+Now when I clicked on OK, it will show Appointment fixed for Sukhmanjeet Kaur at 10:00 
+
+![tkinter3](https://user-images.githubusercontent.com/87376487/127766699-934a108d-1ba1-46ec-a493-22c0bc0e0d58.png)
+
+So, our first appointment has been successfully registered and we can see the total number of appointments also in the right side of the screen like how many appointments are there existing in the database.
+
+![tkinter4](https://user-images.githubusercontent.com/87376487/127766739-b70026b8-f239-4bb5-bd87-ecf9ef334477.png)
+
+Now I created three more registrations One for Drish, Second for Aditya and other for Sukhmani, I got the screenshot of Sukhmani's registration because further we will make changes so you can clearly see what the changes we have done in the data, that we will be doing later in upcoming shots.
+
+![tkinter5](https://user-images.githubusercontent.com/87376487/127766812-2115b9de-6cb6-42cd-a419-72b5e04b6797.png)
+
+Now you can clearly check all the four registrations are successfully registered in the Database.
+
+![tkinter6](https://user-images.githubusercontent.com/87376487/127766873-233adc80-7265-4d15-b9e2-bc25d084852c.png)
+
+
+
+
+
+
+
+
+
 
 
